@@ -1,0 +1,26 @@
+<annotation>
+	<folder>第一輪</folder>
+	<filename>WIN_20200528_19_42_50_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0528補拍\第一輪\WIN_20200528_19_42_50_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>812</xmin>
+			<ymin>201</ymin>
+			<xmax>1036</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

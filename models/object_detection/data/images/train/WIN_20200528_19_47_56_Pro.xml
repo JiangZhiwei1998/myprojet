@@ -1,0 +1,26 @@
+<annotation>
+	<folder>第一輪</folder>
+	<filename>WIN_20200528_19_47_56_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0528補拍\第一輪\WIN_20200528_19_47_56_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>462</ymin>
+			<xmax>553</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>

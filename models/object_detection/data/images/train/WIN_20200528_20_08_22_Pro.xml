@@ -1,0 +1,38 @@
+<annotation>
+	<folder>第二輪</folder>
+	<filename>WIN_20200528_20_08_22_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0609照片含labelimg(競賽用的)\第二輪\WIN_20200528_20_08_22_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mango tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>94</ymin>
+			<xmax>577</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>280</ymin>
+			<xmax>1078</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>
